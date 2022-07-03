@@ -1,0 +1,63 @@
+Number System
+
+Decimal Number System
+    Decimal - 10
+    10 digits - 0 - 9
+
+    73
+    70 + 3
+    7*10 + 3*1
+    7*10^1 + 3*10^0
+
+    321
+    300+20+1
+    3*10^2 + 2*10^1 + 1*10^0
+
+
+Binary Number System
+    Binary - 2
+    2 digits - 0 & 1
+
+Octal Number System
+    Octal - 8
+    8 digits - 0-7
+
+Hexadecimal Number System
+    Hexa - 6
+    Decimal - 10
+    16 digits - 0-9, A, B, C, D, E, F - 0-15
+        A - 10
+        B - 11
+        C - 12
+        D - 13
+        E - 14
+        F - 15
+
+
+FE
+F*16^1 + E*16^0
+F*16 + E
+15*16 + 14
+240 + 14
+254
+
+FF
+F*16^1 + F*16^0
+F*16 + F
+15*16 + 15
+240 + 15
+255
+
+128
+128/16 --> Q = 8, R = 0
+80
+
+4512
+4512/16= Q=282,R=0
+282/16= Q=17,R=10
+17/16= Q=1, R=1
+1/16= Q=0, R=1
+11A0
+
+
+
